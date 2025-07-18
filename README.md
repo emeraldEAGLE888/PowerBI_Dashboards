@@ -8,14 +8,14 @@ This project was completed in conjuction with [Luke Barousse's Power BI for Data
 The dashboards below explore different aspects of the data job market using different visualizations. Each has its own README with details about the build process and included features.
 
 ## Data Jobs Dashboard V1 (Comprehensive/Exploratory)
-![Data Jobs Dashboard V1 Image](Images/dash1_page1.png)
+![Data Jobs Dashboard V1 Image](/Images/dash1_page1.png)
 ### Skills Utilized
 Under construction!
 
 [**View the full project and README.**](Data_Jobs_V1/README.md)
 
 ## Data Jobs Dashboard V2 (Single Page/Focused)
-![Data Jobs Dashboard V1 Image](Images/dash2_page1.png)
+![Data Jobs Dashboard V1 Image](/Images/dash2_page1.png)
 ### Skills Utilized
 Under construction!
 

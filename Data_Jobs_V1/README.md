@@ -1,5 +1,5 @@
 # Data Jobs Dashboard with Power BI
-![Dashboard Page 1](Images/dash1_page1.png)
+![Dashboard Page 1](/Images/dash1_page1.png)
 
 ## Introduction
 This dashboard was created to assist **job seekers** in providing accurate, detailed information about the current data job market. This dashboard utilizes a *real-world* dataset of data science job postings in 2024 (which includes titles, salaries, locations, and more) to provide an easy-to-use tool to explore market trends and compensation in the world of data jobs.
@@ -19,11 +19,11 @@ This project was completed in conjuction with [Luke Barousse's Power BI for Data
 ## Dashboard Overview
 
 ### Page 1: Overall Market View
-![Dashboard Page 1](Images/dash1_page1.png)
+![Dashboard Page 1](/Images/dash1_page1.png)
 This page displays key KPIs like total job count, median salary, and most popular job titles. The information on the main page provides an overarching view of the data job market, with the ability to filter by certain data roles.
 
 ### Page 2: Job Title Drill Through
-![Dashboard Page 2](Images/dash1_page2.png)
+![Dashboard Page 2](/Images/dash1_page2.png)
 This page looks more closely at one chosen data role. After selecting a job title from the main page, the job title drill through becomes available to display details like salary ranges, benefits, schedule, and global availability.
 
 ## Conclusion
