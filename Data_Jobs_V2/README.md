@@ -24,7 +24,7 @@ This dashboard consolidates information from the first iteration into a single p
 
 ![Dashboard Page 1](/Images/dash2_page1.png)
 
-This dashboard displays key KPIs like **total job count, median salary, average skills required, and most popular job titles**. The information on this page serves to demonstrate the most optimal skills to learn, as well as the most popular and highest paying jobs, filtered by job title as well as country. 
+This dashboard displays key KPIs like **total job count, median salary, most popular skill, average skills required, and most popular job titles**. The information on this page serves to demonstrate the most optimal skills to learn, as well as the most popular and highest paying jobs, filtered by job title as well as country. 
 Skills can be compared by **job percent/count or median yearly salary**, while jobs can be sorted by their **median yearly or hourly salary**, providing a wide range of factors that play into a job seeker's decision.
 
 ## Conclusion

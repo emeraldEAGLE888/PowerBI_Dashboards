@@ -6,7 +6,7 @@ This repository contains a collection of dashboards that I created to assist **j
 The dashboards below explore different aspects of the data job market using different visualizations. Each has its own README with details about the build process and included features.
 
 ## Data Jobs Dashboard V1 (Comprehensive/Exploratory)
-![Data Jobs Dashboard V1 Image](/Images/dash1_page1.png)
+![Data Jobs Dashboard V1 Image](Images/dash1_page1.png)
 ### Skills Utilized
 - Dashboard Layout/Design
 - Power Query (ETL/Data Cleanup)
@@ -21,7 +21,7 @@ The dashboards below explore different aspects of the data job market using diff
 [**View Full Project Details (README).**](Data_Jobs_V1/README.md)
 
 ## Data Jobs Dashboard V2 (Single Page/Focused)
-![Data Jobs Dashboard V1 Image](/Images/dash2_page1.png)
+![Data Jobs Dashboard V2 Image](Images/dash2_page1.png)
 ### Skills Utilized
 - Advanced Dashboard Layout/Design
 - Data Shaping/ETL (Power Query)
