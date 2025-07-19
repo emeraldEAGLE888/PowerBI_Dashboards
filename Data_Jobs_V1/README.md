@@ -4,7 +4,7 @@
 ## Introduction
 This dashboard was created to assist **job seekers** in providing accurate, detailed information about the current data job market. This dashboard utilizes a *real-world* dataset of data science job postings in 2024 (which includes titles, salaries, locations, and more) to provide an easy-to-use tool to explore market trends and compensation in the world of data jobs.
 
-This project was completed in conjuction with [Luke Barousse's Power BI for Data Analytics](https://www.lukebarousse.com/powerbi) course. 
+This dashboard was built in conjuction with [Luke Barousse's Power BI for Data Analytics](https://www.lukebarousse.com/powerbi) course. 
 
 ## Skills Showcased
 - **Core Charts**: Created column, bar, line, and area charts to compare job popularity and track trends over time.

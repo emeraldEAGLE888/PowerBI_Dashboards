@@ -4,7 +4,7 @@
 ## Introduction
 While the first data jobs dashboard provides an overarching view of the job market, this dashboard was created to assist **job seekers** in providing specific, detailed information about requirements to enter the data sphere. This dashboard utilizes a *real-world* dataset of data science job postings from 2024 (which includes titles, salaries, skills, and more) to provide an easy-to-use tool which streamlines the job search into a single-page interface, displaying insights about compensation and skills needed.
 
-This project was completed in conjuction with [Luke Barousse's Power BI for Data Analytics](https://www.lukebarousse.com/powerbi) course. 
+This dashboard was built with the help of [Luke Barousse's Power BI for Data Analytics](https://www.lukebarousse.com/powerbi) course. 
 
 ## Skills Showcased
 - **Dashboard Design**: Put together an intuitive, visually pleasing layout while using several types of charts to convey a wide range of information.
